@@ -1,7 +1,7 @@
 public class name {
 
  
-public static String reverseString( String x){
+public static String reverseString( String input){
     
     
     String result = "";
